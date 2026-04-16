@@ -1,0 +1,6 @@
+{
+  "name": "Balcia KASKO AI Claims Evaluator",
+  "description": "AI-powered assistant for evaluating KASKO insurance claims in Latvia, providing internal reports and customer communication drafts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
